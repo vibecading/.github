@@ -1,6 +1,4 @@
-# VibeCADing
-
-**Vibe CADing for the built and the imagined**
+<a href="https://vibecading.io"><img src="https://vibecading.io/brand/og-image.png" alt="VibeCADing: Vibe CADing for the built and the imagined" width="600"></a>
 
 An open innovation lab for AI-native tools in architecture, 3D, games and creative work
 
@@ -8,4 +6,5 @@ Architects, 3D artists and game developers already describe what they want in wo
 
 - [Discussions](https://github.com/orgs/vibecading/discussions): show your work, ask for critique, propose a tool
 - [awesome-vibecading](https://github.com/vibecading/awesome-vibecading): a catalog of AI tools for creative software
+- [Play](https://vibecading.io/play/): every key is geometry, a game for while your agents build
 - [vibecading.io](https://vibecading.io)
